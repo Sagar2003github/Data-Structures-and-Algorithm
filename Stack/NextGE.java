@@ -1,3 +1,5 @@
+// code for Next Greater Element I
+
 import java.util.HashMap;
 import java.util.Stack;
 
